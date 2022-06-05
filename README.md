@@ -13,3 +13,5 @@ A comparison of thousands of android apps in the Google Play Store that offers i
 5. Which apps have the highest revenue.
 6. How much paid apps will recoup their development costs based on their sales revenue.
 
+View Jupyter notebook code and click Open in Colab (at the top).
+Once signed into your Google drive, you'll see the data visualisations produced with plotly.
