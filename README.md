@@ -1,10 +1,8 @@
 # Google-Play-Android-App-Analysis
 
-Pandas and Plotly
+Use pandas and plotly to explore the app ecosystem!
 
-Exploring the app ecosystem!
-
-A comparison of thousands of android apps in the Google Play Store that offers insight into the following: 
+This module aims to compare android apps in the Google Play Store, which offers insight into the following: 
 
 1. Competitive differences between app categories (e.g., Games, Lifestyle, Weather, Personalisation).
 2. Which app category offers compelling opportunities based on its popularity.
@@ -13,5 +11,9 @@ A comparison of thousands of android apps in the Google Play Store that offers i
 5. Which apps have the highest revenue.
 6. How much paid apps will recoup their development costs based on their sales revenue.
 
+Based on a tutorial from 100 Days of Code: The complete Python Pro Bootcamp for 2022 led by Dr. Angela Yu of The London App Brewery. 
+
 View Jupyter notebook code and click Open in Colab (at the top).
 Once signed into your Google drive, you'll see the data visualisations produced with plotly.
+
+
