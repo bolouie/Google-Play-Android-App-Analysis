@@ -13,7 +13,6 @@ This module aims to compare android apps in the Google Play Store, which offers 
 
 Based on a tutorial from 100 Days of Code: The Complete Python Pro Bootcamp for 2022 led by Dr. Angela Yu of The London App Brewery. 
 
-View Jupyter notebook (.ipynb file) and click Open in Colab (at the top).
-Once signed into your Google drive, you'll see the data visualisations produced with plotly.
+View Jupyter notebook (.ipynb file), click Open in Colab for data visualisations produced with plotly.
 
 
